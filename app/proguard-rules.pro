@@ -1,0 +1,3 @@
+-keep class com.nightlock.app.** { *; }
+-keep class com.nightlock.app.receivers.** { *; }
+-keep class com.nightlock.app.service.** { *; }

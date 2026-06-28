@@ -105,7 +105,6 @@
         app:layout_constraintEnd_toEndOf="parent"
         android:layout_marginHorizontal="32dp"
         android:layout_marginBottom="48dp"
-        android:cornerRadius="12dp"/>
 
     <!-- Lock overlay shown during block window -->
     <LinearLayout
